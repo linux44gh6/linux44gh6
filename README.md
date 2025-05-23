@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linux44gh6" alt="linux44gh6" /></a> </p>
 
-- 🔭 I’m **Front End developer**
+- 🔭 I’m **Full-Stack Developer**
 
 - 🌱 I’m currently learning **computer science and engineering**
 
