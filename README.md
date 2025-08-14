@@ -30,9 +30,9 @@ current_job: Full-Stack Developer
 education: ["Computer Science & Engineering"]
 company: Freelancer
 
-fields_of_interests: ["Web Development", "Backend Development", "UI/UX", "DevOps"]
-technical_background: ["JavaScript", "React", "Node.js", "NestJS", "Python", "MongoDB"]
-currently_learning: ["Next.js", "TypeScript", "Docker", "Cloud Computing"]
+fields_of_interests: ["Web Development", "Backend Development",  "DevOps"]
+technical_background: [C,C++,"JavaScript", "React","Next.js", "TypeScript", "Docker" "Node.js", "NestJS",  "MongoDB","postgreSQL","MySQL","Prisma",Mongoose,Redux]
+currently_learning: [ "Cloud Computing"]
 will_learn: ["Machine Learning", "Blockchain", "AI"]
 hobbies: ["Gaming", "Reading", "Traveling", "Photography", "Competitive Programming"]
 ```
